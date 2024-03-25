@@ -1,0 +1,21 @@
+{
+  "name": "@asma000/cli-number-guessing",
+  "version": "1.0.0",
+  "description": "This is a cli-based number guessing game.",
+  "type": "module",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
